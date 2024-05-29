@@ -1,0 +1,59 @@
+{
+  "Mathematics" : [
+    {
+      "Farsi": 2,
+      "Arabic": 2,
+      "RE": 2,
+      "Dictation": 2,
+      "Military Education": 3,
+      "PE": 2,
+      "English": 3,
+      "Physics": 4,
+      "Math": 4,
+      "Chemical": 3,
+      "Geom": 2,
+      "Science Lab": 2,
+      "Geography": 2,
+      "Media": 2,
+      "Discipline": 2
+    }
+  ],
+  "Empirical Science" : [
+    {
+      "Farsi": 2,
+      "Arabic": 2,
+      "RE": 2,
+      "Dictation": 2,
+      "Military Education": 3,
+      "PE": 2,
+      "English": 3,
+      "Physics": 3,
+      "Math": 4,
+      "Chemical": 3,
+      "Biology": 3,
+      "Science Lab": 2,
+      "Geography": 2,
+      "Media": 2,
+      "Discipline": 2
+    }
+  ],
+  "Humanities" : [
+    {
+      "Farsi": 2,
+      "Arabic": 2,
+      "RE": 3,
+      "Dictation": 2,
+      "Military Education": 3,
+      "PE": 2,
+      "English": 3,
+      "Sociology": 2,
+      "Math": 3,
+      "Oloum O Fonoon": 2,
+      "History": 3,
+      "Economy": 2,
+      "Logic": 2,
+      "Media": 2,
+      "Discipline": 2
+    }
+  ]
+}
